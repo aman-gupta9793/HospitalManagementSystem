@@ -59,9 +59,7 @@ A simple console-based **Hospital Management System** built using **Java** and *
      java HospitalManagementSystem.HospitalManagementSystem
 
 ### 🖥️ Usage
-      When the application runs, you'll see a menu-driven interface:
       
-        HOSPITAL MANAGEMENT SYSTEM
            - Add Patient
         
           - View Patients
