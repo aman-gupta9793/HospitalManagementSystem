@@ -60,12 +60,19 @@ A simple console-based **Hospital Management System** built using **Java** and *
 
 ### 🖥️ Usage
       When the application runs, you'll see a menu-driven interface:
+      
         HOSPITAL MANAGEMENT SYSTEM
+        
           1. Add Patient
+          
           2. View Patients
+          
           3. View Doctors
-          4. Book Appointment
+          
+          4. Book an Appointment
+          
           5. Exit
+          
           Enter your choice:
 
 
@@ -81,10 +88,12 @@ A simple console-based **Hospital Management System** built using **Java** and *
     
     Submit a Pull Request
     
-    Also feel free to open issues or suggest enhancements.
+    Also, feel free to open issues or make any other suggestions.
 
 ### 🙏 Acknowledgments
-    Special thanks to all developers and contributors who helped shape this project. Your feedback and suggestions are always appreciated!
+    Special thanks to all contributors and users who support the development of the Hotel Reservation System.
+    Your feedback makes this project better!
+    
 
 
 
