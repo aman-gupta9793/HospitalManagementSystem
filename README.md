@@ -59,17 +59,18 @@ A simple console-based **Hospital Management System** built using **Java** and *
      java HospitalManagementSystem.HospitalManagementSystem
 
 ### 🖥️ Usage
-      
-           - Add Patient
-        
-          - View Patients
-          
-          - View Doctors
-          
-          - Book an Appointment
-          
-          - Exit
 
+      When the application runs, you’ll see a menu-driven interface offering options such as:
+
+        - Reserve a room
+        
+        - View reservations
+        
+        - Edit reservation
+        
+        - Delete reservation
+        
+        - Exit
 
 ---
 ### 🤝 Contributing
