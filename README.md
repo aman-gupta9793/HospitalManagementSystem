@@ -1,6 +1,6 @@
 # 🏥 Hospital Management System
 
-A simple console-based **Hospital Management System** built using **Java** and **MySQL**. This application allows you to manage patient and doctor data, and book appointments. It demonstrates the use of JDBC for database operations and follows a modular code structure for better maintainability.
+A simple console-based **Hospital Management System** built using **Java** and **MySQL**. This application allows you to manage patient and doctor data and book appointments. It demonstrates the use of JDBC for database operations and follows a modular code structure for better maintainability.
 
 ---
 
@@ -78,22 +78,19 @@ A simple console-based **Hospital Management System** built using **Java** and *
 
 ---
 ### 🤝 Contributing
-  Contributions are welcome!
 
-    Fork the repository
-    
-    Create a new feature branch
-    
-    Commit your changes
-    
-    Submit a Pull Request
+    Contributions are welcome!
+      Fork the repository
+      Create a new feature branch
+      Commit your changes
+      Submit a Pull Request
     
     Also, feel free to open issues or make any other suggestions.
 
 ### 🙏 Acknowledgments
 
-Special thanks to all contributors and users who support the development of the Hotel Reservation System.
-Your feedback makes this project better!
+    Special thanks to all contributors and users who support the development of the Hotel Reservation System.
+    Your feedback makes this project better!
     
 
 
