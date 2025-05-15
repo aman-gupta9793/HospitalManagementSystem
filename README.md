@@ -78,18 +78,21 @@ A simple console-based **Hospital Management System** built using **Java** and *
 
 ---
 ### 🤝 Contributing
+  If you find bugs or have ideas for improvements or new features:
 
-    Contributions are welcome!
-      Fork the repository
-      Create a new feature branch
-      Commit your changes
-      Submit a Pull Request
-    
-    Also, feel free to open issues or make any other suggestions.
+  Fork the repository
+  
+  Create a new branch
+  
+  Submit a pull request
+  
+  Issues and discussions are also encouraged!
+
+
 
 ### 🙏 Acknowledgments
-    Special thanks to all contributors and users who support the development of the Hotel Reservation System.
-    Your feedback makes this project better!
+  Special thanks to all contributors and users who support the development of the Hotel Reservation System.
+  Your feedback makes this project better!
     
 
 
