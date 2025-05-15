@@ -58,18 +58,6 @@ A simple console-based **Hospital Management System** built using **Java** and *
      javac HospitalManagementSystem/HospitalManagementSystem.java
      java HospitalManagementSystem.HospitalManagementSystem
 
-### 🖥️ Usage
-
-        - Reserve a room
-        
-        - View reservations
-        
-        - Edit reservation
-        
-        - Delete reservation
-        
-        - Exit
-
 ---
 ### 🤝 Contributing
   If you find bugs or have ideas for improvements or new features:
