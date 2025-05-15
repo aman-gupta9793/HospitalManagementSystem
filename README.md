@@ -60,8 +60,6 @@ A simple console-based **Hospital Management System** built using **Java** and *
 
 ### 🖥️ Usage
 
-      When the application runs, you’ll see a menu-driven interface offering options such as:
-
         - Reserve a room
         
         - View reservations
