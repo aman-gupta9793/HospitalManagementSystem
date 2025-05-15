@@ -62,18 +62,15 @@ A simple console-based **Hospital Management System** built using **Java** and *
       When the application runs, you'll see a menu-driven interface:
       
         HOSPITAL MANAGEMENT SYSTEM
+           - Add Patient
         
-          1. Add Patient
+          - View Patients
           
-          2. View Patients
+          - View Doctors
           
-          3. View Doctors
+          - Book an Appointment
           
-          4. Book an Appointment
-          
-          5. Exit
-          
-          Enter your choice:
+          - Exit
 
 
 ---
