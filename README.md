@@ -91,8 +91,9 @@ A simple console-based **Hospital Management System** built using **Java** and *
     Also, feel free to open issues or make any other suggestions.
 
 ### 🙏 Acknowledgments
-    Special thanks to all contributors and users who support the development of the Hotel Reservation System.
-    Your feedback makes this project better!
+
+Special thanks to all contributors and users who support the development of the Hotel Reservation System.
+Your feedback makes this project better!
     
 
 
